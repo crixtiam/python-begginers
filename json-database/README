@@ -1,0 +1,3 @@
+pip install fastapi uvicorn
+pip install pandas
+uvicorn endpoint:app --reload
