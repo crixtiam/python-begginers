@@ -1,0 +1,7 @@
+# instalacion librerias
+
+pip install fastapi uvicorn
+
+uvicorn nombre_archivo:nombre_fastapi --reload
+
+uvicorn endpoint:app --reload

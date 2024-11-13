@@ -1,0 +1,4 @@
+plotly
+nbformat
+pandas
+numpy

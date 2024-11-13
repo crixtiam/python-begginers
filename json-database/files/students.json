@@ -2,43 +2,50 @@
     {
         "id": 1,
         "nombre": "Juan",
-        "Apellido": "Fernandez",
+        "apellido": "Fernandez",
         "edad": 10,
         "carrera": "educacion"
     },
     {
         "id": 2,
         "nombre": "Gabriela",
-        "Apellido": "Zambrano",
+        "apellido": "Zambrano",
         "edad": 18,
         "carrera": "contaduria"
     },
     {
         "id": 3,
         "nombre": "Andres",
-        "Apellido": "Ponnefz",
+        "apellido": "Ponnefz",
         "edad": 17,
         "carrera": "biologia"
     },
     {
         "id": 4,
         "nombre": "Jesus",
-        "Apellido": "Portillo",
+        "apellido": "Portillo",
         "edad": 15,
         "carrera": "biologia"
     },
     {
         "id": 5,
         "nombre": "Carlos",
-        "Apellido": "Centeno",
+        "apellido": "Centeno",
         "edad": 28,
         "carrera": "ing de sistemas"
     },
     {
         "id": 6,
         "nombre": "Joshua",
-        "Apellido": "Rodriguez",
+        "apellido": "Rodriguez",
         "edad": 38,
         "carrera": "biologia"
+    },
+    {
+        "id": 7,
+        "nombre": "Arturo",
+        "apellido": "Morales",
+        "edad": 38,
+        "carrera": "Meaestria en tecnologia"
     }
 ]
