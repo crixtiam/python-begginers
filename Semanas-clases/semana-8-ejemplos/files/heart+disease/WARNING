@@ -1,0 +1,9 @@
+The file cleveland.data has been unfortunately messed up when we lost
+node cip2 and loaded the file on node ics.  The file processed.cleveland.data
+seems to be in good shape and is useable (for the 14 attributes situation).
+I'll clean up cleveland.data as soon as possible.
+
+Bad news: my original copy of the database appears to be corrupted.
+I'll have to go back to the donor to get a new copy.
+
+David Aha

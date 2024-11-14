@@ -1,0 +1,14 @@
+age:			immediate.
+sex:			immediate.
+cp:			immediate.
+trestbps:		immediate.
+chol:			delayed.
+fbs:			delayed.
+restecg:		delayed.
+thalach:		delayed.
+exang:			delayed.
+oldpeak:		delayed.
+slope:			delayed.
+ca:			delayed.
+thal:			delayed.
+
