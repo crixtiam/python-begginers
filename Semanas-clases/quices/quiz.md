@@ -14,9 +14,9 @@
 ### **Interpretación (Opción Múltiple)**
 
 5. Tienes un modelo de regresión lineal con la ecuación:  
-   \[
-   y = 2.5 + 1.8x_1 - 0.5x_2
-   \]  
+   
+   $y = 2.5 + 1.8x_1 - 0.5x_2$
+    
    ¿Qué significa el coeficiente de \(x_2\)?  
    - a) Por cada incremento unitario en \(x_2\), \(y\) disminuye en promedio 0.5 unidades.  
    - b) Por cada incremento unitario en \(x_2\), \(y\) aumenta en promedio 0.5 unidades.  
@@ -40,7 +40,7 @@
 | 4    | 5.0  |  
 | 5    | 6.1  |  
 
-Ajusta un modelo de regresión lineal de la forma \(y = \beta_0 + \beta_1x\). Calcula manualmente los coeficientes \(\beta_0\) y \(\beta_1\) usando las fórmulas de mínimos cuadrados.  
+Ajusta un modelo de regresión lineal de la forma $y = \beta_0 + \beta_1x$. Calcula manualmente los coeficientes $\beta_0$ y $\beta_1$ usando las fórmulas de mínimos cuadrados.  
 
 ---
 
