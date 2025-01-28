@@ -8,7 +8,7 @@
 
 1. La **regresión lineal simple** asume una relación lineal entre las variables independientes y dependientes.  
 2. En la **regresión lineal múltiple**, un coeficiente de una variable independiente representa su influencia en la variable dependiente, manteniendo las demás variables constantes.  
-3. Un valor de \(R^2\) alto siempre garantiza que el modelo de regresión sea válido.  
+3. Un valor de $R^2$ alto siempre garantiza que el modelo de regresión sea válido.  
 4. Si los residuos de un modelo de regresión lineal muestran un patrón sistemático, significa que las suposiciones del modelo se cumplen.  
 
 ### **Interpretación (Opción Múltiple)**
@@ -17,7 +17,7 @@
    
    $y = 2.5 + 1.8x_1 - 0.5x_2$
     
-   ¿Qué significa el coeficiente de \(x_2\)?  
+   ¿Qué significa el coeficiente de \(x_2\) ?  
    - a) Por cada incremento unitario en \(x_2\), \(y\) disminuye en promedio 0.5 unidades.  
    - b) Por cada incremento unitario en \(x_2\), \(y\) aumenta en promedio 0.5 unidades.  
    - c) Por cada incremento de 2.5 unidades en \(x_2\), \(y\) permanece constante.  
