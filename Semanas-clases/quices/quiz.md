@@ -26,7 +26,8 @@
 6. Un modelo de regresión tiene un valor \(p\)-value para una variable independiente de 0.04. ¿Qué puedes concluir?  
    - a) La variable es estadísticamente significativa al nivel del 5%.  
    - b) La variable no es significativa porque el valor \(p > 0.01\).  
-   - c) El valor \(p\) indica que el modelo tiene errores de multicolinealidad.  
+   - c) El valor \(p\) indica que el modelo tiene errores de multicolinealidad.
+   - d) Realiza la definicion de que es el p-value
 
 ### **Ejercicio Práctico**
 
